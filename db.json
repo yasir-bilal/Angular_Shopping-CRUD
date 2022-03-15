@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "this is fresh apple.",
+      "date": "2022-02-19T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "mango",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 200,
+      "comment": "it is not fresh...",
+      "date": "2022-02-23T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "graphs",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 120,
+      "comment": "it is good",
+      "date": "2022-02-23T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "tomato",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 60,
+      "comment": "good",
+      "date": "2022-02-23T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "potato",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 124,
+      "comment": "good quality",
+      "date": "2022-02-23T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "bulb",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 300,
+      "comment": "tremendous",
+      "date": "2022-02-27T18:30:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
